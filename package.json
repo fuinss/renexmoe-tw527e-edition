@@ -1,5 +1,5 @@
 {
-  "name": "renexmoe-tw527e-edition",
+  "name": "5201314.ml",
   "version": "1.2.4",
   "description": "高顏值 OneManager 主題，作用於 OneManager-php，提供多種CDN",
   "main": "renexmoe-tw527e-edition.html",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TW527E/renexmoe-tw527e-edition.git"
+    "url": "/"
   },
   "keywords": [
     "theme",
@@ -28,10 +28,10 @@
     "jsdelivr-gcore",
     "jsdelivr-originfastly"
   ],
-  "author": "TW527E",
+  "author": "5201314.ml",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/TW527E/renexmoe-tw527e-edition/issues"
+    "url": "https://5201314.ml"
   },
-  "homepage": "https://github.com/TW527E/renexmoe-tw527e-edition#readme"
+  "homepage": "https://5201314.ml"
 }
